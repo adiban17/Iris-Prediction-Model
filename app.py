@@ -24,5 +24,3 @@ elif species==2:
 else:
     st.header("Iris Species: Iris-versicolor")
 
-
-

@@ -1,5 +1,5 @@
-Required Packages:
-- pandas
-- scikit-learn
-- streamlit
-- joblib
+pandas
+numpy
+scikit-learn
+streamlit
+joblib
